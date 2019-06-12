@@ -1,5 +1,5 @@
 # HxEnhancedDSP
-A sample project to enhance DSP with customied tag and customized argument.
+A sample project to enhance DSP with customized tag and customized argument.
 
 ## Dependencies
 This project is depended on some exteranl library, including:
